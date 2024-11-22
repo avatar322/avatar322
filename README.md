@@ -33,7 +33,6 @@ Hi! I'm Baxter, a passionate **Graduate Developer** with a **1st Class Hons in C
 
 #### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 #### 🛠️ Tools & Platforms  
