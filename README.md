@@ -1,48 +1,58 @@
-# 👨‍💻 Baxter Brook  
+<h1 align="center">Hi there, I'm Baxter Brook 👋</h1>
 
-**Graduate Developer | Tech Enthusiast | Problem Solver**  
+<p align="center">
+  Graduate Developer | Tech Enthusiast | Problem Solver  
+</p>
 
-📍 London, UK | 📧 [baxter-brook@hotmail.com](mailto:baxter-brook@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/baxter-brook)  
-
----
-
-## 👋 About Me  
-
-Hi! I'm a tech-savvy **Graduate Developer** with a **1st Class Hons in Computing** and 5+ years of experience in web development and software engineering. I specialize in crafting secure, scalable, and innovative solutions, whether it's for desktop apps, APIs, or cloud-based projects.  
+<p align="center">
+  📍 London, UK | 📧 <a href="mailto:baxter-brook@hotmail.com">baxter-brook@hotmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/baxter-brook">LinkedIn</a>
+</p>
 
 ---
 
-## 💻 Tech Stack  
+### 👨‍💻 About Me  
 
-**Languages:**  
-HTML5 | CSS3 | JavaScript | Python | Java | PHP  
-
-**Frameworks & Libraries:**  
-FastAPI | Node.js | Electron  
-
-**Databases:**  
-MySQL | PostgreSQL | MongoDB  
-
-**Tools & Platforms:**  
-Docker | GitHub Actions | Google Cloud | AWS  
+Hi! I'm Baxter, a passionate **Graduate Developer** with a **1st Class Hons in Computing** and 5+ years of experience in software engineering and web development. As the Co-Founder and Lead Developer of Webbd Ltd, I specialize in creating scalable, secure, and user-focused applications.  
 
 ---
 
-## 🌟 Featured Projects  
+### 🛠️ Tech Stack  
 
-### 📚 **Virtual Bookcase App**  
-- Desktop application for managing eBook libraries with cloud integration and secure authentication.  
+#### 💻 Languages  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
-### 🤖 **AI Chatbot App**  
-- AI-powered chatbot using OpenAI API for customizable conversations.  
+#### 🚀 Frameworks & Libraries  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009788.svg?style=flat&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=flat&logo=electron&logoColor=white)
 
-### ✍️ **Google Sheets Article Writer**  
-- Automated content creation tool integrated with WordPress publishing.  
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+#### 🛠️ Tools & Platforms  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🚀 Let's Connect!  
+### 🌟 Featured Projects  
 
-I'm always open to exploring new opportunities and exciting projects. Reach out, and let's create something amazing!  
+#### 📚 Virtual Bookcase App  
+A full-stack desktop application for managing eBook libraries with cloud integration and secure authentication.  
+**Tech Stack:** JavaScript, GitHub, Cloud Computing  
 
-📧 [baxter-brook@hotmail.com](mailto:baxter-brook@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/baxter-brook)  
+#### 🤖 AI Chatbot App  
+An AI-powered chatbot using OpenAI API for customizable conversations.  
+**Tech Stack:** Python, OpenAI API  
+
+#### ✍️ Google Sheets Article Writer  
+An AI-powered content g
