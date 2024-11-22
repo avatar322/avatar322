@@ -48,5 +48,5 @@ Hi! I'm Baxter, a passionate **Graduate Developer** with a **1st Class Hons in C
 
 I'm always open to exciting opportunities and collaborations. Feel free to reach out!  
 
-<p align="center">
+<p>
   📧 <a href="mailto:baxter-brook@hotmail.com">baxter-brook@hotmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/baxter-brook">LinkedIn</a>
