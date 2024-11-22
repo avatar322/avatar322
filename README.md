@@ -44,15 +44,9 @@ Hi! I'm Baxter, a passionate **Graduate Developer** with a **1st Class Hons in C
 
 ---
 
-### 🌟 Featured Projects  
+### 🚀 Let's Connect!  
 
-#### 📚 Virtual Bookcase App  
-A full-stack desktop application for managing eBook libraries with cloud integration and secure authentication.  
-**Tech Stack:** JavaScript, GitHub, Cloud Computing  
+I'm always open to exciting opportunities and collaborations. Feel free to reach out!  
 
-#### 🤖 AI Chatbot App  
-An AI-powered chatbot using OpenAI API for customizable conversations.  
-**Tech Stack:** Python, OpenAI API  
-
-#### ✍️ Google Sheets Article Writer  
-An AI-powered content g
+<p align="center">
+  📧 <a href="mailto:baxter-brook@hotmail.com">baxter-brook@hotmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/baxter-brook">LinkedIn</a>
